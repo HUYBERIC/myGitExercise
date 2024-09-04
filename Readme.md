@@ -3,5 +3,7 @@
 ## MORNING
 
 ## AFTERNOON
-
+- EAT
+- STUDY
+- READ A BOOK
 ## EVENING
